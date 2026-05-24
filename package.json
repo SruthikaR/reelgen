@@ -4,7 +4,7 @@
   "description": "Playwright automation for HeyGen video generation (9:16 / Reels format)",
   "main": "heygen_automation.js",
   "scripts": {
-    "start": "node heygen_automation.js",
+    "start": "node new.js",
     "install:browsers": "npx playwright install chromium"
   },
   "dependencies": {
